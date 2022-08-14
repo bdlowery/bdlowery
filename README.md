@@ -4,4 +4,4 @@ Working at https://perpetual.education as a web developer.
 
 Getting my Computer Science degree from Sacramento state.
 
-https://bdlowery.dev
+https://bdlowery.dev to see some of my work.
