@@ -1,4 +1,4 @@
-# Brian Lowery
+# brian lowery
 
 Working at https://perpetual.education as a web developer.
 
