@@ -1,7 +1,7 @@
 # brian lowery
 
-working at https://perpetual.education as a web developer, and https://www.unwrapdesign.com
+working at [perpetual.education](https://perpetual.education/) as a web developer, and [unwrapdesign.com](https://www.unwrapdesign.com/).
 
-senior at sac state majoring in computer science
+senior at sac state majoring in computer science.
 
-https://bdlowery.dev
+[bdlowery.dev](https://bdlowery.dev)
