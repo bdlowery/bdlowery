@@ -1,7 +1,7 @@
 # brian lowery
 
-Working at https://perpetual.education as a web developer.
+working at https://perpetual.education as a web developer, and https://www.unwrapdesign.com
 
-Getting my Computer Science degree from Sacramento state.
+senior at sac state majoring in computer science
 
 https://bdlowery.dev
