@@ -1,4 +1,4 @@
-# brian lowery
+# bdlowery
 
 working at [perpetual.education](https://perpetual.education/) as a web developer, and [unwrapdesign.com](https://www.unwrapdesign.com/)
 
